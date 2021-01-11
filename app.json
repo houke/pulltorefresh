@@ -1,0 +1,12 @@
+{
+  "name": "pull-to-refresh",
+  "displayName": "pull-to-refresh",
+  "expo": {
+    "name": "pull-to-refresh",
+    "slug": "pull-to-refresh",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
